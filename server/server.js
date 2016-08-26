@@ -22,12 +22,11 @@ app.use(bodyParser.json());
 app.use('/api', models.Router);
 
 app.get('/', function(req, res) {
-	                                        res.sendFile(path.resolve('../public/index.html'));
+  res.sendFile(path.resolve('../public/index.html'));
 });
 
 app.post('/', function(req, res) {
-
-	                                        var something = req.body.something;
+  var something = req.body.something;
 	//do something with 'something'
 
 });
