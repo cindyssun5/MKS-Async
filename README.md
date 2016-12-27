@@ -59,6 +59,7 @@ etc        |  Others that may not belong in the above categories
 **Sample commit messages:**
 
 git commit -m "feat(web-client): add new signup page"
+
 git commit -m "fix(web-server): server connecting to heroku correctly"
 
 
