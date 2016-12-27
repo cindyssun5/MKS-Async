@@ -5,6 +5,13 @@
 As a high school student, choosing a college to attend is a critical life decision. Enter Future Insight. This web app is a platform for high school students to connect with college students. Graduating high school students can request and set up meetings with college students from schools they are considering and get inside information on the school and major. College students, on the other hand, can offer tours of their schools for some extra income and pass down valuable information to high school students.
 
 
+#Team
+1. Dana Li
+1. Sergey Potashnikov
+1. Tim Shiu
+1. Cindy Sun 
+
+
 # MEAN stack
 1. Angular, Bootstrap
 1. Node/Express
