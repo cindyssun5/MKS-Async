@@ -6,7 +6,6 @@ As a high school student, choosing a college to attend is a critical life decisi
 
 
 # MEAN stack
-
 1. Angular, Bootstrap
 1. Node/Express
 1. Mongo
@@ -27,6 +26,7 @@ As a high school student, choosing a college to attend is a critical life decisi
 4. git push origin <branch>
 
 Check graph - 
+
 git log --graph --oneline --decorate
 
 
@@ -57,6 +57,7 @@ db         |  Database files
 etc        |  Others that may not belong in the above categories
 
 **Sample commit messages:**
+
 git commit -m "feat(web-client): add new signup page"
 git commit -m "fix(web-server): server connecting to heroku correctly"
 
