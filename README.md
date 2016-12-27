@@ -35,12 +35,6 @@ Commit Message Template - type(scope): subject/description
 
 **Allowed type values:**
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-
 Type       |  Description
 -----------|----------------------------------------------------------------------
 feat       | New feature for the user, not a new feature for build script
@@ -52,6 +46,7 @@ test       | Adding missing tests, refactoring tests; no production code change
 chore      | Updating grunt tasks etc; no production code change
 
 **Allowed scope values:**
+
 Scope      |  Description
 -----------|----------------------------------------------------------------------
 init       |  Package.json or other initialization files
