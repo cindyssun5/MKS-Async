@@ -14,7 +14,7 @@ As a high school student, choosing a college to attend is a critical life decisi
 1. Heroku, Grunt
 
 
-## Reference
+## References
 1. https://www.npmjs.com/package/angular-material
 1. https://docs.travis-ci.com/user/languages/javascript-with-nodejs/
 
@@ -26,13 +26,21 @@ As a high school student, choosing a college to attend is a critical life decisi
 3. git pull --rebase upstream master
 4. git push origin <branch>
 
-- git log --graph --oneline --decorate
+Check graph - 
+git log --graph --oneline --decorate
 
 
 ##Git Commit Message Template
 Commit Message Template - type(scope): subject/description
 
 **Allowed type values:**
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+
 Type       |  Description
 -----------|----------------------------------------------------------------------
 feat       | New feature for the user, not a new feature for build script
