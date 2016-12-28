@@ -75,6 +75,14 @@ input {
     padding-left: 85px;
 }
 
+.red {
+    color: red;
+}
+
+.modal-text {
+    padding-left: 15px;
+}
+
 #listB {
     padding-right: 5px;
 }
